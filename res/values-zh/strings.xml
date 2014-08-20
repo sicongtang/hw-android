@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">欢迎-android</string>
+    <string name="hello_world">你好世界!</string>
+    <string name="action_settings">动作设置</string>
+    <string name="edit_message">输入消息</string>
+    <string name="button_send">发送</string>
+    <string name="title_activity_main">主框体</string>
+    <string name="title_activity_display_message">我的消息</string>
+    <string name="action_search">动作搜索</string>
+
+</resources>
